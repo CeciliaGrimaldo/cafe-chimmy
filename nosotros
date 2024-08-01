@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="STYLO 1.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC:regular,700">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia</title>
+</head>
+<body>
+    <div class="encabezado">
+        <div class="logo">
+            <img src="Chimmy/Logo-Chimmy.png" alt="40" width="165">
+           
+        </div>
+        <nav class="navbar">
+            <ul class="opciones">
+            <ul>
+            
+                <li><a href="INICIO.html">Inicio</a></li>
+                <li><a href="NOSOTROS.html">Nosotros</a></li>
+                <li><a href="MENÚ.html">Menu</a></li>
+                <li><a href="CONTACTO.html">Contacto</a></li>
+
+            </ul>
+        </nav>
+    </div>
+
+    <section class="Nosotross">
+        <div class="Historia"> 
+    <h1> Nuestra Historia </h1>
+        <p> La catefería Chimmy fue una idea que surgió al momento de que la banda BTS lanzara sus peluches con sus personajes.
+            Yo cecilia la creadora, funfadora y dueña  de la cafetería me insipire 
+            y decidi  hacer una cafetería en el honor del cantante Jimin dueño del personajes "Chimmy" ya que me gustan mucho 
+            decidi implementar bebidas y postres inspirados en ese personaje y obviamente en los demás BT21.
+            Pero la imagen inicial y el protagonista es CHIMMY <3</P><br>  
+
+            
+                <div class="centrado">
+            <center>   <img src="Chimmy/JIMIN x CHIMMY.jpg"/> </center> 
+                </div>
+            </div>
+            
+    <section class="Nosotross">
+     <div class="quienes">
+        <h2>¿Quiénes somos?</h2>
+   <p> Somos una cafetería que realiza cafés hechos con granos de alta calidad , al igual que los postres y comidas son hechos de fruta natural
+    y procesados de manera adecuada para nuestro comensal, nosotros nos enfocamos en la variedad de cafés y postres los frutos rojos son
+    los que destacan en nuestro menu. La cafetería inicio en el 2025 lo cual lleva poco tiempo en el mercado pero apesar de su corto tiempo 
+    su exito y progreso da mucho de que hablar sobre nuestra cafetería</p><br>
+            <div class="centrado">
+               <center><img src="Chimmy/bt21.2.jpg"/> </center> 
+            </div>
+    </section>
+</body>
+</html>

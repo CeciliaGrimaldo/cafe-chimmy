@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="STYLO 1.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC:regular,700">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú </title>
+</head>
+<body>
+    <div class="encabezado">
+        <div class="logo">
+            <img src="Chimmy/Logo-Chimmy.png" alt="40" width="150">
+         
+        </div>
+        <nav class="navbar">
+            <ul>
+                <li><a href="INICIO.html">Inicio</a></li>
+                <li><a href="NOSOTROS.html">Nosotros</a></li>
+                <li><a href="MENÚ.html">Menu</a></li>
+                <li><a href="CONTACTO.html">Contacto</a></li>
+
+            </ul>
+        </nav>
+    </div>
+
+    <div class="centrado">
+        <h1>NUEVOS CAFÉS</h1>
+        <p> <br>¡Bienvenidos a la Cafetería Chimmy hoy te ofreceremos nuevas variedades de sabor!</p><br>
+      <div class="sentado">
+        <img src="Chimmy/CHIMMY SENTADO.png" alt="70" width="150">
+        
+            <div class="Nuevo">
+                <div class="chimmy">
+                
+                    <center>   <h3>CHOMMY</h3>
+                    <p>Nuevo café inspirado en los personajes "CHIMMY Y COOKIE" con un toque de frutos rojos</p>
+                 <img src="Chimmy/Chimmy y Cooky.jpeg" alt="40" width="150"> <img src="Chimmy/CHOMMY.jpg" alt="40" width="150"></center>  
+                </div>
+                <div class="chimmy">
+                   
+                    <center><h3>KOYI</h3> 
+                    <p>Nuevo Café insipirado en los personajes de "CHIMMY Y KOYA" es un tipo capuchinno 
+                        el color de la espuma cambia y le da un toques de menta no es 100% café </center> 
+                   <center> <img src="Chimmy/Chymmy y Koya.jpeg" alt="40" width="150"> <img src="Chimmy/KOYI.jpg" alt="40" width="150"> </center> 
+                  
+                    </p>
+                </div>
+                <div class="chimmy">
+                   <center><h3>CHOOKY</h3> 
+                    <p>Nuevo Café insipirado en los personajes de "CHIMMY Y SHOOKY" este es un cafe tipo latte con un toque especial 
+                        a galletas de chocolate y chispas adentro.</center> 
+                    </p>
+                   <center>  <img src="Chimmy/Chimmy y Shooky.jpeg" alt="40" width="150"> <img src="Chimmy/CHOOKY.jpg" alt="40" width="150"> </center>
+                    
+                </div>
+        
+                </div>
+            </div>    
+
+    </div>    
+</body>
+</html>

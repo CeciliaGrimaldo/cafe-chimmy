@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="STYLO 1.css" 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+</head>
+<body>
+        <div class="encabezado">
+            <div class="logo">
+                <img src="Chimmy/Logo-Chimmy.png" alt="40" width="150">
+             
+            </div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="INICIO.html">Inicio</a></li>
+                    <li><a href="NOSOTROS.html">Nosotros</a></li>
+                    <li><a href="MENÚ.html">Menu</a></li>
+                    <li><a href="CONTACTO.html">Contacto</a></li>
+                </ul>
+        </nav>
+    </div>
+
+    <div class="centrado">
+        <h1>¡CONTACTANOS!</h1>
+        <p>Espero que tu experiencia en la Cafetería Chimmy te haya gustado , si te gustaría seguir probando nuestros cafés 
+            y nuevas recetas que tenemos para tí no dudes en contactarnos en nuestras redes.<br>
+            En nuestro espacio, no solo ofrecemos una increíble variedad de marcas de maquillaje, sino que también te damos acceso a las últimas tendencias y productos más innovadores del mercado. Desde las fórmulas más lujosas hasta los imprescindibles de cada temporada, tenemos todo lo que necesitas para resaltar tu belleza natural.</p>
+        
+            <div class="redes">
+                <div class="Instagram">
+            
+                   <h3> Nuestro Instagram <3 </h3>
+                     <p>Cafetería Chimmy</p>
+                        <img src="REDES/Instagram.jpg" alt="40" width="150">  
+                </div>
+                <div class="redes">
+                    <h3> Nuestro Facebook <3 </h3>
+                        <p>@Cafetería Chimmy</p>
+                           <img src="REDES/Facebook.jpg" alt="40" width="150"> 
+                </div>
+                <div class="redes">
+                    <h3> Nuestro Tiktok <3 </h3>
+                        <p>Cafetería Chimmy</p>
+                           <img src="REDES/Tiktok.jpg" alt="40" width="150"> 
+                        </div>
+                        <div class="redes">
+                            <h3> Nuestro Correo <3 </h3>
+                                <p>Cafetería Chimmy@gmail.com</p>
+                                   <img src="REDES/GMAIL.jpg" alt="40" width="150"> 
+
+            </div>    
+
+    </div>    
+</body>
+</html>

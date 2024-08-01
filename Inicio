@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="STYLO 1.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INICIO</title>
+</head>
+<body>
+    <div class="encabezado">
+       
+        <div class="logo">
+           <center><a href="">Cafetería Chimmy</a> </center>
+            <img src="Chimmy/CHIMMY CAFÉ.png" alt="50" width="150"> 
+           
+        </div>
+        <nav class="navbar">
+            <ul class="opciones">
+            <ul>
+                <li><a href="INICIO.html">Inicio</a></li>
+                <li><a href="NOSOTROS.html">Nosotros</a></li>
+                <li><a href="MENÚ.html">Menú</a></li>
+                <li><a href="CONTACTO.html">Contacto</a></li>
+
+        </nav>
+    </div>
+
+    <section class="Contenido">
+    </article>
+    <div class="subtitulo"> 
+                         <h1>Los mejores cafés</h1>
+        <p> <br>
+           <center>Aquí en nuestra cafetería chimmy tenemos uno de los mejores cafés de Mérida,
+             hechos con granos de café de calidad.</p><br></center> 
+            <center> <img src="Chimmy/BT21.jpg" alt="" width="220"> <img src="Chimmy/AMBIENTE.jpg" alt="40" width="290"></center>
+            <div class="container">
+                <div class="centrado">
+                </div>
+            </div>
+    <div class="ambiente">
+              <center> <h2>Un Buen Ambiente</h2></center>
+   <br><p>Nosotros en la cafetería tratamos de mantener un ambiente calido , sano y seguro para nuestros clientes,
+    el que tu estes bien es nuestra prioridad 
+    tratamos de que goses de tu café y tus postres preferidos.
+    Nuestro servicio estara a tu disposición cada que nos necesites   </p><br>
+   <center><img src="Chimmy/MOSTRADOR.jpg" alt="60" width="270">  <img src="Chimmy/MESAS.jpg" alt="40" width="300"></center> 
+    </div>      
+            <div class="centrado">
+                <img src=""/>
+            </div>
+    </section>
+</body>
+</html>

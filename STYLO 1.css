@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(168, 137, 101);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+ width: 1200px;
+background:white;
+ margin: 10px auto;
+}
+.superior{
+    background: #f7c17b;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 300px;
+    padding: 35px;
+}
+/*estilos para el menú de opciones*/
+ .menu{
+     float:left;
+    padding:25px;
+    list-style: none;
+}
+.opciones li{
+    float: left;
+    list-style: none;
+}
+.opciones li a{
+        color: white;
+        padding: 25px;
+        text-decoration: none;
+        border:1px solid white;
+        float: left;
+    }
+.opciones li a:hover{
+    background: #7a3106;
+}
+/*estilos para el cuerpo*/
+.cuerpo{
+    overflow: hidden;
+}
+.caja{
+      float: left;
+    width: 380px;
+    margin: 8px;
+    text-align: center;  
+    border: 1p solid;
+}
+.cafes{
+        padding: 9px;
+        background-color: rgb(201, 162, 90);
+        margin: 25px auto;
+        padding-left: 80;
+        background:white;
+        width: 90px;
+}
+.tipos{
+   color: rgb(170, 119, 60);
+    text-align: center;
+    padding: 10px 0;
+}
+ 
+.efecto:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+.contenido{
+   padding: 20px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.titulo{
+    text-align: center;
+    padding: 15px 0 15px 0;
+    color: black;
+}
+
+/*estilos del footer*/
+.pie{
+    background: #dfa786;
+    overflow: hidden;
+}
+.izquierda{
+   float: left;
+   width: 500px;
+   padding: 15px;
+}
+.derecha{
+   float: left;
+   width: 550px;
+}
+.siguenos{
+    padding:20px 0;
+    border: 1px;
+}
+.inicio{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    float: left;
+    padding: 80px;
+    color: rgb(233, 187, 187);
+    width: 1200px;
+    text-align: center;
+    text-overflow: 30px;
+}
+.encabezado{
+    padding: 20px;
+    text-align: center
+}
+.nosotros{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    padding-left: 80;
+    color: white;
+}
+.contenido{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    padding-left: 70;
+    color: rgb(156, 119, 119);
+text-align: justify;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+.navbar li {
+    margin-left: 10px;
+}
+.navbar a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.navbar a:hover{
+     background: #725d4c;
+    color: white;  
+}
+     .logo{
+        padding-left: 20px;
+        text-decoration: none;}
+.contenido{
+    padding: 20px;
+     text-align: justify;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }  
+ .caja{
+       float: left;
+    width: 380px;
+    margin: 20px;
+    text-align:justify
+ }
+ .subtitulo{
+    padding: 10px;
+    background-color: rgb(201, 162, 90);
+    margin: 28px auto;
+    padding-left: 60;
+    background:white;
+    width: 800px;
+ }
+ .Historia{
+    padding: 25px;
+    background-color: rgb(179, 104, 69);
+    margin: 30px auto;
+    padding-left: 70;
+    background:rgb(207, 173, 123);
+    width: 1200px;
+ }
+.quienes{
+    padding: 25px;
+    background-color: rgb(206, 147, 91);
+    margin: 30px auto;
+    padding-left: 70;
+    background:rgb(207, 173, 123);
+    width: 1200px;
+ }
+ .Nuevo{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px auto;
+    padding-left: 80;
+    background:rgb(207, 173, 123);
+    width: 1200px; 
+ }
+ .chimmy{
+    margin: auto;
+    padding-left: 1px;
+    border: 3px;
+    padding: 25px;
+ }
+ .centrado{
+    padding: 10 px;
+    background-color:rgb(206, 147, 91);
+    margin: 30px auto;
+    padding-left: 80;
+    background:rgb(206, 147, 91);
+    width: 1200px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .sentado{
+    border-width: 10px;
+ }
+ .redes{
+    padding: 25px;
+    background-color: rgb(170, 113, 60);
+    margin: 30px auto;
+    padding-left: 80;
+    background:rgb(223, 199, 164);
+    width: 1000px;
+ }
